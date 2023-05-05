@@ -152,7 +152,7 @@
         numCorrect++;
       }
     }
-    score.append('Kamu Menjawab: ' + numCorrect + '\n' + '&nbsp;' + '&nbsp;' + 'pertanyaan dari: ' + questions.length);
+    score.append('Kamu menjawab: ' + numCorrect + '\n' + '&nbsp;' + '&nbsp;' + 'pertanyaan dari: ' + questions.length);
     return score;
   }
 })();
