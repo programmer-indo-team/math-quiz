@@ -1,2 +1,2 @@
 # math-quiz
-Math Quiz using HTML and JavaScript only
+Math Quiz using HTML CSS and JavaScript
